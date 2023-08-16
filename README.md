@@ -33,7 +33,7 @@
   <span>
     <h3>🟡 Social media</h3>
     <a href="https://www.twitch.tv/khancerberus"><img src="https://img.shields.io/twitch/status/khancerberus?logo=twitch&labelColor=%23160066"></a>
-    <a href="https://img.shields.io/twitter/follow/khancerberus?logo=x"><img src="https://img.shields.io/twitter/follow/khancerberus?logo=x"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=khancerberus"><img src="https://img.shields.io/twitter/follow/khancerberus?logo=x"></a>
 </div>
 
 ---
