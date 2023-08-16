@@ -31,9 +31,9 @@
   </span>
 
   <span>
-    <h3>📺 Streaming</h3>
+    <h3>🟡 Social media</h3>
     <a href="https://www.twitch.tv/khancerberus"><img src="https://img.shields.io/twitch/status/khancerberus?logo=twitch&labelColor=%23160066"></a>
-  </span>
+    <a href="https://img.shields.io/twitter/follow/khancerberus?logo=x"><img src="https://img.shields.io/twitter/follow/khancerberus?logo=x"></a>
 </div>
 
 ---
