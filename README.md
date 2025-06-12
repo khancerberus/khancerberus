@@ -4,12 +4,12 @@
 
 <div align="center">
   <h3>⚙Skills</h3>
-  <a href="https://github.com/khancerberus"><img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,flask,django"></a>
+  <a href="https://github.com/khancerberus"><img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,flask,django,redis"></a>
 </div>
 
 <div align="center">
   <h3>📚Learning</h3>
-  <a href="https://github.com/khancerberus"><img alt="Learning" src="https://skillicons.dev/icons?i=nestjs,graphql,redis,redux"></a>
+  <a href="https://github.com/khancerberus"><img alt="Learning" src="https://skillicons.dev/icons?i=nestjs,graphql,redux"></a>
 </div>
 
 ---
